@@ -45,8 +45,6 @@ h1 {
     transform: scale(1.1);
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
-
-/* Colors */
 #grey { background-color: grey; color: white; }
 #yellow { background-color: yellow; color: black; }
 #purple { background-color: purple; color: white; }
